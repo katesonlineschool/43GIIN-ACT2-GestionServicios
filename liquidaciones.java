@@ -1,1 +1,1 @@
-public class Liquidaciones { static String estado = "version rama principal"; }
+public class Liquidaciones { static String estado = "version rama ya fusionada"; }
